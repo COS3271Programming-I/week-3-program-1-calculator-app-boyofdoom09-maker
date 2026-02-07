@@ -16,6 +16,8 @@ public class Im {
 
            System.out.println("I am such a smart computer.");
 
+           scanner.close();
+
          
     }
 }
